@@ -14,7 +14,8 @@ body {
     background: linear-gradient(40deg, var(--first), var(--second)), url(assets/pexels-maxyne-barcel-10402282-1.png), no-repeat center/cover;
     background: position x 100%;
     background: position y 10%;
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 
 ul.list {
