@@ -52,9 +52,9 @@ li.list-item:hover {
 }
 
 .bottom div img {
-    position: fixed;
-    left: 1200px;
-    top: 490px;
+    position: relative;
+    left: 480px;
+    top: 49px;
     width: 130px;
     transition: transform .7s ease-in-out;
 }
